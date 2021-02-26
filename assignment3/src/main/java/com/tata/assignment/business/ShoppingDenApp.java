@@ -40,7 +40,7 @@ public class ShoppingDenApp {
                 System.out.println("Login successful");
             else
                 System.out.println("Login failed");
-            System.out.println()
+            System.out.println();
             System.out.println("Display all products");
             productOps.displayProducts();
         }
